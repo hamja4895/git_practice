@@ -1,0 +1,3 @@
+main(){
+  print("thirt push");
+}
